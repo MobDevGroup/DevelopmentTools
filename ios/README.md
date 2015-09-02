@@ -1,4 +1,4 @@
-## IOS开发工具
+## iOS开发工具
 * ### [Xcode](https://developer.apple.com/xcode/downloads/)
 > Xcode 允许你开发基于iOS的iPad、iPhone、iPod Touch 设备应用程序的一款IDE，利用它可以完成用户界面设计、编码、测试、调试、发布等一系列工作。是开发苹果应用一款必不可少的工具。
 
@@ -63,7 +63,7 @@
 
   >[injectionforxcode](http://injectionforxcode.com/)：injectionforxcode是一个神奇的插件,可以实时的修改代码,而不需要重新编译运行到模拟器中.其核心实现技术真是一大亮点.
 
-  > [Alcatraz](http://alcatraz.io/)：IOS插件管理器。
+  > [Alcatraz](http://alcatraz.io/)：iOS插件管理器。
 
   >[XcodeCoverage](https://github.com/jonreid/XcodeCoverage)：XcodeCoverage 包含了一组脚本,提供一个简单的方法对 Xcode 项目的代码覆盖率进行统计并生成 HTML 报告。
 
@@ -85,7 +85,7 @@
 > 用来检查Xcode项目中没有用到的资源。
 
 * ### [Nomad](http://nomad-cli.com/)
-> 是一个优秀的IOS开发命令行集，方便你操作苹果开发者中心（Apple Developer Center）的命令行工具，可以做的事情包括方便地添加测试设备，更新证书文件，增加App id，验证IAP的凭证等。
+> 是一个优秀的iOS开发命令行集，方便你操作苹果开发者中心（Apple Developer Center）的命令行工具，可以做的事情包括方便地添加测试设备，更新证书文件，增加App id，验证IAP的凭证等。
 
 * ### [xctool](https://github.com/facebook/xctool)
 > facebook开源的一个iOS编译和测试的工具。使用它而不是用Xcode的UI界面是因为它是一个纯命令行工具。

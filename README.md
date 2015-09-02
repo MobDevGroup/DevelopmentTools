@@ -1,7 +1,7 @@
 ## DevelopmentTools
 移动开发工具整理
 * android：Android开发工具，以及周边插件等；
-* ios：IOS开发工具，以及周边插件等；
+* iOS：iOS开发工具，以及周边插件等；
 * frontend：主要包含前端开发工具，涉及js编写为主；
 * web：这里特指后端开发，及其常用工具；
 * other：主要是指辅助工具，以及其他上面几项没有涉及的方面；
