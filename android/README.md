@@ -133,7 +133,7 @@ AndroidJUnitRunner、Espresso、UI Automator
 
   > [idea-markdown](https://github.com/nicoulaj/idea-markdown)：markdown插件
 
-  > Codota:搜索最好的Android代码。
+  > [Codota](http://www.codota.com/):搜索最好的Android代码。
 
   > [adb-idea](https://github.com/pbreault/adb-idea)：支持直接在AS面板中进行ADB操作，操作快捷菜单，快速清除数据，重启应用，卸载应用等操作。
 
@@ -141,6 +141,10 @@ AndroidJUnitRunner、Espresso、UI Automator
   > Settings Repository：不同设备之间同步Android Studio的配置。
   > idea vim：兼具ide和vim的优点。
   > .ignore：.gitignore配置插件。
+
+  > [FIR_Plugin_Android](https://github.com/FIRHQ/FIR_Plugin_Android)：一键上传应用到fir.im
+
+
 * ### Apk反编译工具
   > [android-apktool](http://ibotpeaches.github.io/Apktool/)
 
