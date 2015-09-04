@@ -21,6 +21,15 @@
 * ### [Ant](https://ant.apache.org/)
 > Apache软件基金会JAKARTA目录中的一个子项目,同前面两个一样属于Java的build工具，早期项目用的还是比较多，后来渐渐被maven和Gradle所代替。
 
+* ### [Android Studio 中文组](http://www.android-studio.org/)
+> Android Studio 中文组是一支针对Android Studio做本地化支持的团队，其工作包括：Android Studio 汉化，文献翻译，BUG收集，安装，配置过程中常见问题的发现和解决，以及中文教程的编写。
+
+* ### [Android Studio 中文社区](http://forum.Android-Studio.org)
+>  Android Studio 的中文用户交流心得，收集问题，解决问题的平台。
+
+* ### [Android Studio 知识问答](http://ask.Android-Studio.org)
+> Android Studio 知识问答社区。
+
 * ### [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/)
 > 在线的图标生成工具，包括Launcher icons、Action bar icons、Notification icons、Device-framed screenshots、Simple nine-patches、Generic icons、Android Action Bar Style Generator、Android Holo Colors Generator。
 
@@ -136,7 +145,7 @@ AndroidJUnitRunner、Espresso、UI Automator
   > [android-apktool](http://ibotpeaches.github.io/Apktool/)
 
   > [Smali](https://github.com/JesusFreke/smali)
-  
+
   > [Android APK Decompiler](http://www.decompileandroid.com/)
 
 * ### Android防护
