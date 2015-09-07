@@ -74,5 +74,9 @@
 
   > * [Balsamiq Mockups](https://balsamiq.com/)：一款优秀的原型图绘制工具。
 
+  > * [墨刀](https://modao.cc/)：免费的移动应用原型与线框图工具.
+
+  > * [Prototyping on Pape](https://popapp.in/)：纸上原型交互APP设计工具。
+
 * ### 综合
   > * [在线工具](http://tool.oschina.net/)：开源中国整理的在线工具。
