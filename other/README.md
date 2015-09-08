@@ -29,7 +29,7 @@
 
   > * [Markdown Here](https://chrome.google.com/webstore/detail/markdown-here/elifhakcjgalahccnjkneoccemfahfoa?utm_source=chrome-ntp-icon)：一款markdown格式化工具。
 
-* ### 网络请求
+* ### 网络调试
   > * [PostMan Rest Client](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?utm_source=chrome-ntp-icon)：chrome扩展应用程序中模拟网络请求插件。
 
   > * [RestClient](https://github.com/chao/RESTClient)：firefox扩展应用程序中模拟网络请求插件。
@@ -77,6 +77,11 @@
   > * [墨刀](https://modao.cc/)：免费的移动应用原型与线框图工具.
 
   > * [Prototyping on Pape](https://popapp.in/)：纸上原型交互APP设计工具。
+
+* ### 团队协作
+  > * [Slack](http://www.slack.com/)：Slack 是聊天群组 + 大规模工具集成 + 文件整合 + 统一搜索。截至2014年底，Slack 已经整合了电子邮件、短信、Google Drives、Twitter、Trello、Asana、GitHub 等 65 种工具和服务，把可以把各种碎片化的企业沟通和协作集中到一起。
+
+  > * [teambition](https://www.teambition.com/)：国内一家工作做得一个高效而稳定的项目协作平台，它基于云服务的协作化项目管理平台，用户可以通过【任务板】【分享墙】【文件库】等功能来实现项目知识的分享、沟通，项目任务的安排及进度监督，以及相关项目的文档存储和分享。
 
 * ### 综合
   > * [在线工具](http://tool.oschina.net/)：开源中国整理的在线工具。
