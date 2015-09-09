@@ -142,6 +142,12 @@ AndroidJUnitRunner、Espresso、UI Automator
   > idea vim：兼具ide和vim的优点。
   > .ignore：.gitignore配置插件。
 
+  > [AndroidLocalizationer](https://github.com/westlinkin/AndroidLocalizationer)
+  > 可用于将项目中的 string 资源自动翻译为其他语言的 Android Studio/IntelliJ IDEA 插件
+
+  > [robolectric-gradle-plugin](https://github.com/robolectric/robolectric-gradle-plugin)
+  > Gradle plugin for Robolectric.
+
   > [FIR_Plugin_Android](https://github.com/FIRHQ/FIR_Plugin_Android)：一键上传应用到fir.im
 
 
