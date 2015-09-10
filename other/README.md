@@ -46,6 +46,9 @@
 
   > * [iTerm2](https://github.com/gnachman/iTerm2)：OS X 下一款开源免费的的终端工具，基本用它可以替代了原生的 Terminal.
 
+  > * [black-screen](https://github.com/black-screen/black-screen)
+  > Black Screen is a modern terminal emulator (and shell) based on Electron. As opposed to most of the terminal emulators, it exploits the capabilities of contemporary interfaces.
+
 * ### 思维导图
   > * [MindManager](http://www.mindmanager.cc/)：windows平台下思维导图软件，是理思路的一个重要工具。
 
