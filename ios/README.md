@@ -11,75 +11,6 @@
 * ### [Carthage](https://github.com/Carthage/Carthage)
 > 同样是用来帮助我们管理第三方依赖库的工具，具体可以看介绍与cocopods之间的不同。
 
-* ### 网络抓包
-> [Charles](http://www.charlesproxy.com/)：Mac下常用的截取网络封包的工具，我们为了调试与服务器端的网络通讯协议，常常需要截取网络封包来分析。Charles通过将自己设置成系统的网络访问代理服务器，使得所有的网络访问请求都通过它来完成，从而实现了网络封包的截取和分析。
-> [Fiddle2](http://www.telerik.com/fiddler)：Windows平台一款免费且功能强大的数据包抓取软件，它通过代理的方式获取程序http通讯的数据，可以用其检测网页和服务器的交互情况，能够记录所有客户端和服务器间的http请求，支持监视、设置断点、甚至修改输入输出数据等功能。
-
-* ### Xcode插件
-> [VVDocumenter](https://github.com/onevcat/VVDocumenter-Xcode)：自动生代码注释的工具，类似JavaDoc风格。
-
-  > [ClangFormat](https://github.com/travisjeffery/ClangFormat-Xcode)：一款格式化代码工具，能够让开发者使用Clang将代码格式化为LLVM、Google、Chromium、Mozilla或WebKit等格式，其开发者为来自37signals的Travis Jeffery。通过ClangFormat，开发者不仅可以实现对代码的自动或批量格式化，还可以进行自定义配置。
-
-  > [Code Pilot](http://codepilot.cc/)：Code Pilot是Xcode 5的一款扩充插件，能够帮助开发者无需鼠标操作，即可在项目中快速方便地查找文件、方法和符号。
-
-  > [XcodeBoost](https://github.com/fortinmike/XcodeBoost)：XcodeBoost是一款可以让开发者轻而易举地检查和修改Objective-C代码的插件。XcodeBoost能够自动进行一些繁琐的操作，比如方法的定义与声明、添加基于命令行的代码处理（剪切/复制/粘贴/重复/删除行）、持续高亮等。
-
-  > [XAlign](https://github.com/qfish/XAlign)；XAlign是一款专门用于代码整理的Xcode插件，其作者为来自Geek Zoo Studio的开发者QFish。XAlign能够对开发者的代码非常快速地进行对齐优化，有“=”、宏定义、属性三种对齐模式。当然，如果默认的对齐风格不是自己喜欢的，开发者还可以自定义或提出issues。
-
-  > [KSImageNamed](https://github.com/ksuther/KSImageNamed-Xcode)：KSImageNamed是一款能够帮助开发者在Xcode中自动补全图片文件名称的插件，其开发者Kent Sutherland来自美国波士顿。KSImageNamed支持NSImage和UIImage，当开发者写到“[UIImage imaged:”时，便会自动将项目中的图片名称提示出来。此外，KSImageNamed还带有预览功能，对于经常使用代码生成图片的开发者可谓是十分便利。
-
-  > [Fuzzy Autocomplete](https://github.com/FuzzyAutocomplete/FuzzyAutocompletePlugin)：Fuzzy Autocomplete是一款Xcode 5代码自动补全插件，兼容KSImageNamed，其开发者为来自澳大利亚墨尔本的Jack Chen（创始人）和波兰华沙的Leszek Ślażyński（Fuzzy Autocomplete v2.0作者）。Fuzzy Autocomplete通过添加模糊匹配来提高Xcode代码自动补全功能，开发者无需遵循从头匹配原则，只要记得方法中的某个关键词即可进行匹配，极大地提高了工作效率。
-
-  > [BBUDebuggerTuckAway](https://github.com/neonichu/BBUDebuggerTuckAway)BBUDebuggerTuckAway是一款支持自动隐藏Debugger的Xcode插件，其开发者为来自德国柏林Contentful GmbH公司的Boris Bügling。使用BBUDebuggerTuckAway，开发者能够实现在编辑代码时，自动隐藏底部的调试栏。
-
-  > [Dash-Plugin-for-Xcode](https://github.com/omz/Dash-Plugin-for-Xcode)：Dash Xcode plugin是Bogdan Popescu开发的一款集成了Dash文档查看器应用的Xcode插件，允许开发者在使用Option-Click或作用相同的快捷键操作查看当前文本的相关文档时，用Dash代替Xcode的文档查看器。
-
-  >[HOStringSense-for-Xcode](https://github.com/holtwick/HOStringSense-for-Xcode)：HOStringSense可以说是大段文本利器，对于开发者而言，在输入大段文本时，如果文本中包含了各种换行和特殊字符，那是相当地头疼，但通过HOStringSense，一切的问题都将迎刃而解。HOStringSense由来自德国的Mac和iOS开发者Dirk Holtwick开发，完美支持编辑正则表达式、多行文本、内联HTML等，还提供了极为快速的字符串长度统计反馈。
-
-  > [ColorSense-for-Xcode](https://github.com/omz/ColorSense-for-Xcode)：一款Xcode插件，能让开发者视觉化地使用UIColor (and NSColor)，方便开发者定义颜色。该插件的编辑菜单增加了一些项目来插入颜色或者暂时禁用颜色高亮。
-
-  > [XToDo](https://github.com/trawor/XToDo)：一款颇受Brett Terpstra大神喜爱的，出自国内iOS开发者之手的注释辅助插件——XToDo。这款由UniT微博客户端作者TraWor所开发的插件，可以将项目代码中的TODO、FIXME等注释进行收集并列举出来。
-
-  > [XVim](https://github.com/JugglerShu/XVim)：Xcode的vim插件，可以在Xcode的编辑窗口中开启vim模式。
-
-  > [SCXcodeSwitchExpander](https://github.com/stefanceriu/SCXcodeSwitchExpander)：帮助你迅速地在switch语句中填充枚举类型的每种可能的取值。
-
-  >[deriveddata-exterminator](https://github.com/kattrali/deriveddata-exterminator)：一个清除Xcode缓存目录的插件。
-
-  >[Peckham](https://github.com/markohlebar/Peckham)：添加引用文件有时候非常麻烦，如果你需要引入一个pod头文件，Xcode自带的自动补全自然帮不了你，这时候你可以用Peckham插件解决这个问题。Command+Control+P解决所有的引入。
-
-  >[Lin](http://questbe.at/lin/)：一款可在代码中添加本地化编辑器，用图形化管理项目的本地化，支持最新版本的Xcode6。
-
-  >[Backlight](https://github.com/limejelly/Backlight-for-XCode)：有些插件看上去微不足道但是他们却非常有用。Backlight就是这样的插件，它只是把当前正在编辑的行突出显示。
-
-  >[ESJsonFormat-Xcode](https://github.com/EnjoySR/ESJsonFormat-Xcode)：将JSON格式化输出为模型的属性。
-
-  >[Auto-Importer-for-Xcode](https://github.com/citrusbyte/Auto-Importer-for-Xcode)：快速导入头文件的插件。
-
-  > [Reveal-Plugin-for-Xcode](https://github.com/shjborage/Reveal-Plugin-for-Xcode)：自动将Reveal App集成到你的工程中去的Xcode插件。
-
-  > [AutoresizeMask-for-Xcode](https://github.com/garnett/AutoresizeMask-for-Xcode)：AutoresizeMask-for-Xcode让AutoresizingMask在代码层面拥有和xib一样的可视化的效果,这方便我们用好和用准AutoresizingMask。
-
-  >[SCXcodeMiniMap](https://github.com/stefanceriu/SCXcodeMiniMap)：SCXcodeMiniMap的灵感应该来源于Sublime Text.在代码编辑页面中,添加整页代码的迷你预览图,方面使用者能够快速拖动定位到关键位置。
-
-  >[RRConstraintsPlugin](https://github.com/RolandasRazma/RRConstraintsPlugin)：RRConstraintsPlugin是一个在IB中使用自动布局的辅助插件.
-
-  >[injectionforxcode](http://injectionforxcode.com/)：injectionforxcode是一个神奇的插件,可以实时的修改代码,而不需要重新编译运行到模拟器中.其核心实现技术真是一大亮点.
-
-  > [Alcatraz](http://alcatraz.io/)：iOS插件管理器。
-
-  >[XcodeCoverage](https://github.com/jonreid/XcodeCoverage)：XcodeCoverage 包含了一组脚本,提供一个简单的方法对 Xcode 项目的代码覆盖率进行统计并生成 HTML 报告。
-
-  >[XCActionBar](https://github.com/pdcgomes/XCActionBar)：Alfred应该都不陌生，在Mac中被广泛应用，XCActionBar则号称Xcode中的Alfred插件。
-
-  >[Xcode-Plugin-Template](https://github.com/kattrali/Xcode-Plugin-Template)：Xcode主题插件，支持Xcode6.0+。
-
-  >[cocoapods-xcode-plugin](https://github.com/kattrali/cocoapods-xcode-plugin)：cocoapods则不用多介绍了，Xcode中的插件。
-
-  >[ACCodeSnippetRepositoryPlugin](https://github.com/acoomans/ACCodeSnippetRepositoryPlugin)：和git仓库无缝同步代码片段的一个Xcode插件。
-
-  >[RTImageAssets](https://github.com/rickytan/RTImageAssets)：能够根据@3x图片自动生成@2x, @1x 图片的一个Xcode插件。
-
 * ### [Reveal](http://revealapp.com/)
 > 为了查看UI发生的变化，我们过去常常会重新编译我们的应用，不过效率非常低。Reveal为开发者带来了类似Firebug和Web Inspector的强大工具。
 
@@ -108,6 +39,110 @@
 * ### [Opera Mobile Emulator](http://www.opera.com/zh-cn/developer/mobile-emulator)
 > Opera Mobile Emulator主要是为从事手机Web项目的开发者准备的.在软件上通过内置的一些初始化设定可以配置出任意尺寸的浏览器.这样很方便的模拟在真实手机尺寸上面的显示情况.从而加速调试的效率,并且,当你需要两种此存的手机时,你无需准备两台手机. 只需要配置出两种尺寸的界面即可.
 
+### 网络抓包
+* ### [Charles](http://www.charlesproxy.com/)
+> Mac下常用的截取网络封包的工具，我们为了调试与服务器端的网络通讯协议，常常需要截取网络封包来分析。Charles通过将自己设置成系统的网络访问代理服务器，使得所有的网络访问请求都通过它来完成，从而实现了网络封包的截取和分析。
 
+* ### [Fiddle2](http://www.telerik.com/fiddler)
+> Windows平台一款免费且功能强大的数据包抓取软件，它通过代理的方式获取程序http通讯的数据，可以用其检测网页和服务器的交互情况，能够记录所有客户端和服务器间的http请求，支持监视、设置断点、甚至修改输入输出数据等功能。
+
+### Xcode插件
+* ###  [VVDocumenter](https://github.com/onevcat/VVDocumenter-Xcode)
+> 自动生代码注释的工具，类似JavaDoc风格。
+
+* ### [ClangFormat](https://github.com/travisjeffery/ClangFormat-Xcode)
+> 一款格式化代码工具，能够让开发者使用Clang将代码格式化为LLVM、Google、Chromium、Mozilla或WebKit等格式，其开发者为来自37signals的Travis Jeffery。通过ClangFormat，开发者不仅可以实现对代码的自动或批量格式化，还可以进行自定义配置。
+
+* ### [Code Pilot](http://codepilot.cc/)
+> Code Pilot是Xcode 5的一款扩充插件，能够帮助开发者无需鼠标操作，即可在项目中快速方便地查找文件、方法和符号。
+
+* ### [XcodeBoost](https://github.com/fortinmike/XcodeBoost)
+> XcodeBoost是一款可以让开发者轻而易举地检查和修改Objective-C代码的插件。XcodeBoost能够自动进行一些繁琐的操作，比如方法的定义与声明、添加基于命令行的代码处理（剪切/复制/粘贴/重复/删除行）、持续高亮等。
+
+* ### [XAlign](https://github.com/qfish/XAlign)
+> XAlign是一款专门用于代码整理的Xcode插件，其作者为来自Geek Zoo Studio的开发者QFish。XAlign能够对开发者的代码非常快速地进行对齐优化，有“=”、宏定义、属性三种对齐模式。当然，如果默认的对齐风格不是自己喜欢的，开发者还可以自定义或提出issues。
+
+* ### [KSImageNamed](https://github.com/ksuther/KSImageNamed-Xcode)
+> KSImageNamed是一款能够帮助开发者在Xcode中自动补全图片文件名称的插件，其开发者Kent Sutherland来自美国波士顿。KSImageNamed支持NSImage和UIImage，当开发者写到“[UIImage imaged:”时，便会自动将项目中的图片名称提示出来。此外，KSImageNamed还带有预览功能，对于经常使用代码生成图片的开发者可谓是十分便利。
+
+* ### [Fuzzy Autocomplete](https://github.com/FuzzyAutocomplete/FuzzyAutocompletePlugin)
+> Fuzzy Autocomplete是一款Xcode 5代码自动补全插件，兼容KSImageNamed，其开发者为来自澳大利亚墨尔本的Jack Chen（创始人）和波兰华沙的Leszek Ślażyński（Fuzzy Autocomplete v2.0作者）。Fuzzy Autocomplete通过添加模糊匹配来提高Xcode代码自动补全功能，开发者无需遵循从头匹配原则，只要记得方法中的某个关键词即可进行匹配，极大地提高了工作效率。
+
+* ### [BBUDebuggerTuckAway](https://github.com/neonichu/BBUDebuggerTuckAway)
+> BBUDebuggerTuckAway是一款支持自动隐藏Debugger的Xcode插件，其开发者为来自德国柏林Contentful GmbH公司的Boris Bügling。使用BBUDebuggerTuckAway，开发者能够实现在编辑代码时，自动隐藏底部的调试栏。
+
+* ### [Dash-Plugin-for-Xcode](https://github.com/omz/Dash-Plugin-for-Xcode)
+> Dash Xcode plugin是Bogdan Popescu开发的一款集成了Dash文档查看器应用的Xcode插件，允许开发者在使用Option-Click或作用相同的快捷键操作查看当前文本的相关文档时，用Dash代替Xcode的文档查看器。
+
+* ### [HOStringSense-for-Xcode](https://github.com/holtwick/HOStringSense-for-Xcode)
+> HOStringSense可以说是大段文本利器，对于开发者而言，在输入大段文本时，如果文本中包含了各种换行和特殊字符，那是相当地头疼，但通过HOStringSense，一切的问题都将迎刃而解。HOStringSense由来自德国的Mac和iOS开发者Dirk Holtwick开发，完美支持编辑正则表达式、多行文本、内联HTML等，还提供了极为快速的字符串长度统计反馈。
+
+* ### [ColorSense-for-Xcode](https://github.com/omz/ColorSense-for-Xcode)
+> 一款Xcode插件，能让开发者视觉化地使用UIColor (and NSColor)，方便开发者定义颜色。该插件的编辑菜单增加了一些项目来插入颜色或者暂时禁用颜色高亮。
+
+* ### [XToDo](https://github.com/trawor/XToDo)
+> 一款颇受Brett Terpstra大神喜爱的，出自国内iOS开发者之手的注释辅助插件——XToDo。这款由UniT微博客户端作者TraWor所开发的插件，可以将项目代码中的TODO、FIXME等注释进行收集并列举出来。
+
+* ### [XVim](https://github.com/JugglerShu/XVim)
+> Xcode的vim插件，可以在Xcode的编辑窗口中开启vim模式。
+
+* ### [SCXcodeSwitchExpander](https://github.com/stefanceriu/SCXcodeSwitchExpander)
+> 帮助你迅速地在switch语句中填充枚举类型的每种可能的取值。
+
+* ### [deriveddata-exterminator](https://github.com/kattrali/deriveddata-exterminator)
+> 一个清除Xcode缓存目录的插件。
+
+* ### [Peckham](https://github.com/markohlebar/Peckham)
+> 添加引用文件有时候非常麻烦，如果你需要引入一个pod头文件，Xcode自带的自动补全自然帮不了你，这时候你可以用Peckham插件解决这个问题。Command+Control+P解决所有的引入。
+
+* ### [Lin](http://questbe.at/lin/)
+> 款可在代码中添加本地化编辑器，用图形化管理项目的本地化，支持最新版本的Xcode6。
+
+* ### [Backlight](https://github.com/limejelly/Backlight-for-XCode)
+> 有些插件看上去微不足道但是他们却非常有用。Backlight就是这样的插件，它只是把当前正在编辑的行突出显示。
+
+* ### [ESJsonFormat-Xcode](https://github.com/EnjoySR/ESJsonFormat-Xcode)
+> 将JSON格式化输出为模型的属性。
+
+* ### [Auto-Importer-for-Xcode](https://github.com/citrusbyte/Auto-Importer-for-Xcode)
+> 快速导入头文件的插件。
+
+* ###  [Reveal-Plugin-for-Xcode](https://github.com/shjborage/Reveal-Plugin-for-Xcode)
+> 自动将Reveal App集成到你的工程中去的Xcode插件。
+
+* ###  [AutoresizeMask-for-Xcode](https://github.com/garnett/AutoresizeMask-for-Xcode)
+> AutoresizeMask-for-Xcode让AutoresizingMask在代码层面拥有和xib一样的可视化的效果,这方便我们用好和用准AutoresizingMask。
+
+* ### [SCXcodeMiniMap](https://github.com/stefanceriu/SCXcodeMiniMap)
+> SCXcodeMiniMap的灵感应该来源于Sublime Text.在代码编辑页面中,添加整页代码的迷你预览图,方面使用者能够快速拖动定位到关键位置。
+
+* ### [RRConstraintsPlugin](https://github.com/RolandasRazma/RRConstraintsPlugin)
+> RRConstraintsPlugin是一个在IB中使用自动布局的辅助插件.
+
+* ### [injectionforxcode](http://injectionforxcode.com/)
+> injectionforxcode是一个神奇的插件,可以实时的修改代码,而不需要重新编译运行到模拟器中.其核心实现技术真是一大亮点.
+
+* ### [Alcatraz](http://alcatraz.io/)
+> iOS插件管理器。
+
+* ### [XcodeCoverage](https://github.com/jonreid/XcodeCoverage)
+> XcodeCoverage 包含了一组脚本,提供一个简单的方法对 Xcode 项目的代码覆盖率进行统计并生成 HTML 报告。
+
+* ### [XCActionBar](https://github.com/pdcgomes/XCActionBar)
+> Alfred应该都不陌生，在Mac中被广泛应用，XCActionBar则号称Xcode中的Alfred插件。
+
+* ### [Xcode-Plugin-Template](https://github.com/kattrali/Xcode-Plugin-Template)
+> Xcode主题插件，支持Xcode6.0+。
+
+* ### [cocoapods-xcode-plugin](https://github.com/kattrali/cocoapods-xcode-plugin)
+> cocoapods则不用多介绍了，Xcode中的插件。
+
+* ### [ACCodeSnippetRepositoryPlugin](https://github.com/acoomans/ACCodeSnippetRepositoryPlugin)
+> 和git仓库无缝同步代码片段的一个Xcode插件。
+
+* ### [RTImageAssets](https://github.com/rickytan/RTImageAssets)
+> 能够根据@3x图片自动生成@2x, @1x 图片的一个Xcode插件。
+
+### 综合
 * ### [ios dev tools](http://www.scoop.it/t/ios-dev)
 > 一个网站长期更新ios开发工具

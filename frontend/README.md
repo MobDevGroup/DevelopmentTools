@@ -37,50 +37,72 @@
 
 ## 附录
 
- ### SublimeText插件
- > * [Package Control](https://packagecontrol.io/)：这个特殊的“插件包”，可以很容易地安装、升级、删除，甚至非常方便地查看您已经安装在SublimeText中的包或插件的列表。它通过菜单和对应的行为使这些过程变得非常容易和有组织。
+### SublimeText插件
+* ### [Package Control](https://packagecontrol.io/)
+> 这个特殊的“插件包”，可以很容易地安装、升级、删除，甚至非常方便地查看您已经安装在SublimeText中的包或插件的列表。它通过菜单和对应的行为使这些过程变得非常容易和有组织。
 
- > * [Emmet](http://emmet.io/)：Emmet（译者注：前身就是以前大名鼎鼎的Zen Coding，这个如果你没听说和使用过，就悲哀了）是一个可以让你更快更高效地编写HTML和CSS，节省你大量时间的插件。
+* ### [Emmet](http://emmet.io/)
+> Emmet（译者注：前身就是以前大名鼎鼎的Zen Coding，这个如果你没听说和使用过，就悲哀了）是一个可以让你更快更高效地编写HTML和CSS，节省你大量时间的插件。
 
- > * [Sublime​Linter](http://sublimelinter.com)：这个插件最近才为SublimeText3重建和发布。新版本显然带来了很多新的有所不同的功能，而不是简单地把所有的Linter 放在一个包中，开发者允许用户在升级时选择并安装自己经常使用的Linter。很明显，这可以节省磁盘空间。“更多的定制”，这对用户是很友好的。
+* ###  [Sublime​Linter](http://sublimelinter.com)
+> 这个插件最近才为SublimeText3重建和发布。新版本显然带来了很多新的有所不同的功能，而不是简单地把所有的Linter 放在一个包中，开发者允许用户在升级时选择并安装自己经常使用的Linter。很明显，这可以节省磁盘空间。“更多的定制”，这对用户是很友好的。
 
- > * [SideBarEnhancement](https://github.com/titoBouzout/SideBarEnhancements/tree/st3)：这个插件可以给SublimeText的边栏菜单带来扩充的功能，包括：在当前工程文件夹中新建文件，移动文件或文件夹，产生文件或文件夹的副本，在新窗口或浏览器中打开，刷新等。
+* ###  [SideBarEnhancement](https://github.com/titoBouzout/SideBarEnhancements/tree/st3)
+> 这个插件可以给SublimeText的边栏菜单带来扩充的功能，包括：在当前工程文件夹中新建文件，移动文件或文件夹，产生文件或文件夹的副本，在新窗口或浏览器中打开，刷新等。
 
- > * [Git](https://github.com/kemayo/sublime-text-git)：这个插件会将Git整合进你的SublimeText，使的你可以在SublimeText中运行Git命令，包括添加，提交文件，查看日志，文件注解以及其它Git功能。
+* ###  [Git](https://github.com/kemayo/sublime-text-git)
+> 这个插件会将Git整合进你的SublimeText，使的你可以在SublimeText中运行Git命令，包括添加，提交文件，查看日志，文件注解以及其它Git功能。
 
- > * [CSSComb](http://csscomb.com/)：这是用来给CSS属性进行排序的格式化插件。如果你想保持的代码干净整洁，并且希望按一定的顺序排列，那么这个插件是一种有效解决的方案。特别是当你和其他有自己代码编写风格的开发者一同协作的时候。
+* ###  [CSSComb](http://csscomb.com/)
+> 这是用来给CSS属性进行排序的格式化插件。如果你想保持的代码干净整洁，并且希望按一定的顺序排列，那么这个插件是一种有效解决的方案。特别是当你和其他有自己代码编写风格的开发者一同协作的时候。
 
- > * [CanIUse](http://caniuse.com/)：如果您想检查浏览器是否支持你包括在你的代码中的CSS和HTML元素，那么这是你需要的插件。所有您需要做的就是选择有疑问的元素，插件将为你做其余的事情。
+* ###  [CanIUse](http://caniuse.com/)
+> 如果您想检查浏览器是否支持你包括在你的代码中的CSS和HTML元素，那么这是你需要的插件。所有您需要做的就是选择有疑问的元素，插件将为你做其余的事情。
 
- > * [Alignment](https://github.com/wbond/sublime_alignment)：这个插件让你能对齐你的代码，包括 PHP、CSS 和 Javascript。代码看起来更简洁和可读，便于编辑。
+* ###  [Alignment](https://github.com/wbond/sublime_alignment)
+> 这个插件让你能对齐你的代码，包括 PHP、CSS 和 Javascript。代码看起来更简洁和可读，便于编辑。
 
- > * [ColorPicker](http://weslly.github.io/ColorPicker/)：如果你经常要查看或设置颜色值，这个插件可以很方便地调用你本机的调色板应用。
+* ###  [ColorPicker](http://weslly.github.io/ColorPicker/)
+> 如果你经常要查看或设置颜色值，这个插件可以很方便地调用你本机的调色板应用。
 
- > * [MarkDown Editing](https://github.com/SublimeText-Markdown/MarkdownEditing)：SublimeText不仅仅是能够查看和编辑 Markdown 文件，但它会视它们为格式很糟糕的纯文本。这个插件通过适当的颜色高亮和其它功能来更好地完成这些任务。
+* ### [MarkDown Editing](https://github.com/SublimeText-Markdown/MarkdownEditing)
+> SublimeText不仅仅是能够查看和编辑 Markdown 文件，但它会视它们为格式很糟糕的纯文本。这个插件通过适当的颜色高亮和其它功能来更好地完成这些任务。
 
- > * [FileDiffs](https://github.com/colinta/SublimeFileDiffs)这个插件允许你看到SublimeText中两个不同文件的差异。你可以比较的对象可以是从剪贴板中复制的数据，或工程中的文件，当前打开的文件等。
+* ###  [FileDiffs](https://github.com/colinta/SublimeFileDiffs)
+> 这个插件允许你看到SublimeText中两个不同文件的差异。你可以比较的对象可以是从剪贴板中复制的数据，或工程中的文件，当前打开的文件等。
 
- > * [DocBlockr](https://github.com/spadgos/sublime-jsdocs)：DocBlockr 可以使你很方便地对代码建立文档。它会解析函数，变量，和参数，根据它们自动生成文档范式。
+* ###  [DocBlockr](https://github.com/spadgos/sublime-jsdocs)
+> DocBlockr 可以使你很方便地对代码建立文档。它会解析函数，变量，和参数，根据它们自动生成文档范式。
 
- > * [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter)：高亮括号对齐，针对代码很长超过一屏时这个就很好用了。
+* ###  [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter)
+> 高亮括号对齐，针对代码很长超过一屏时这个就很好用了。
 
- > * [EditorConfig](https://github.com/sindresorhus/editorconfig-sublime)：帮助开发者在不同的编辑器，IDE之间定义和维护统一的编程风格。EditorConfig工程包含一个文件，定义了编程风格，文本编辑器插件集合，让编辑器可以读取该文件并依照它来定义风格。
+* ###  [EditorConfig](https://github.com/sindresorhus/editorconfig-sublime)
+> 帮助开发者在不同的编辑器，IDE之间定义和维护统一的编程风格。EditorConfig工程包含一个文件，定义了编程风格，文本编辑器插件集合，让编辑器可以读取该文件并依照它来定义风格。
 
- > * [AllAutocomplete](https://github.com/alienhard/SublimeAllAutocomplete)：传统的Sublime Text自动补全插件仅仅在当前文件下工作。AllAutocomplete 可以搜索全部打开的标签页，这将极大的简化开发进程。
+* ###  [AllAutocomplete](https://github.com/alienhard/SublimeAllAutocomplete)
+> 传统的Sublime Text自动补全插件仅仅在当前文件下工作。AllAutocomplete 可以搜索全部打开的标签页，这将极大的简化开发进程。
 
- > * [SublimeREPL](https://github.com/wuub/SublimeREPL)：对开发者来讲这个可能是最有用的插件之一了。SublimeREPL 可以直接在编辑器中运行一个解释器，支持很多语言。
+* ###  [SublimeREPL](https://github.com/wuub/SublimeREPL)
+> 对开发者来讲这个可能是最有用的插件之一了。SublimeREPL 可以直接在编辑器中运行一个解释器，支持很多语言。
 
- > * [AutoFileName](https://github.com/BoundInCode/AutoFileName)：自动补全文件路径-非常方便。
+* ###  [AutoFileName](https://github.com/BoundInCode/AutoFileName)
+> 自动补全文件路径-非常方便。
 
- > * [MarkdownPreview](https://github.com/revolunet/sublimetext-markdown-preview)：支持markdown的插件，支持预览功能。
+* ###  [MarkdownPreview](https://github.com/revolunet/sublimetext-markdown-preview)
+> 支持markdown的插件，支持预览功能。
 
- > * [JsFormat](https://github.com/jdc0589/JsFormat)：javascript格式化工具。
+* ###  [JsFormat](https://github.com/jdc0589/JsFormat)
+> javascript格式化工具。
 
- > * [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel)：代码自动提示功能的插件。
+* ###  [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel)
+> 代码自动提示功能的插件。
 
- > * [JsMinifier](https://github.com/cgutierrez/JsMinifier)：
- 该插件基于Google Closure compiler，自动压缩js文件。
+* ### [JsMinifier](https://github.com/cgutierrez/JsMinifier)
+> 该插件基于Google Closure compiler，自动压缩js文件。
 
- > * [Sublime Prefixr](https://github.com/wbond/sublime_prefixr)：Prefixr，CSS3 私有前缀自动补全插件。
+* ### [Sublime Prefixr](https://github.com/wbond/sublime_prefixr)
+> Prefixr，CSS3 私有前缀自动补全插件。
 
- > * [Clipboard history](https://github.com/kemayo/sublime-text-2-clipboard-history)：粘贴板历史记录，方便使用复制/剪切的内容。
+* ### [Clipboard history](https://github.com/kemayo/sublime-text-2-clipboard-history)
+> 粘贴板历史记录，方便使用复制/剪切的内容。
