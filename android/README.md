@@ -251,3 +251,6 @@ AndroidJUnitRunner、Espresso、UI Automator
 ### 综合
 * ### [AndroidDevTools](http://www.androiddevtools.cn/)
 > 关于Android开发的大部分工具都在这里可以找到，除了有开发指南，视频教程，另外关于设计的也应有尽有：如PS插件，矢量图设计工具、切图工具、设计稿尺寸标记工具、原型设计工具、交互设计工具、配色工具、图标处理工具、取色工具、gif录制等等。
+
+* ### [SQLite Viewer](http://inloop.github.io/sqlite-viewer/)
+> View SQLite file online
