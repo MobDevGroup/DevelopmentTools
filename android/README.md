@@ -95,6 +95,9 @@ AndroidJUnitRunner、Espresso、UI Automator
   8. NDK
 
 ### Android Studio插件
+* ### [idea-android-studio-plugin](https://github.com/Haehnchen/idea-android-studio-plugin)
+> IntelliJ IDEA / Android Studio plugin with some tools and usability improvements
+
 * ### [folding-plugin](https://github.com/dmytrodanylyk/folding-plugin)
 > 可以给资源文件分组，并且不移动文件，也不会创建文件夹：Android File Grouping Plugin
 
