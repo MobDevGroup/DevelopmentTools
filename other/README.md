@@ -138,3 +138,11 @@
 ### 综合
 * ### [在线工具](http://tool.oschina.net/)
 > 开源中国整理的在线工具。
+
+* ### [推荐优秀的 Apps](https://github.com/hzlzh/Best-App)
+> 收集&推荐优秀的 Apps/硬件/技巧/周边等
+
+### 附录
+* ### Alfred Workflows
+[AlfredWorkflow.com](http://www.alfredworkflow.com/)
+> 分享Alfred优秀实用的 Workflows
