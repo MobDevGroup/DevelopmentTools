@@ -142,6 +142,9 @@
 * ### [推荐优秀的 Apps](https://github.com/hzlzh/Best-App)
 > 收集&推荐优秀的 Apps/硬件/技巧/周边等
 
+* ### [cheat-sheets集](http://www.cheat-sheets.org/)
+> Cheat Sheets 列出所有的API，并且将API 按某种规则进行分类，然后点击某个API，会显示其具体的描述。
+
 ### 附录
 * ### Alfred Workflows
 [AlfredWorkflow.com](http://www.alfredworkflow.com/)
