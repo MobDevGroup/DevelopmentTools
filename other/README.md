@@ -111,6 +111,9 @@
 * ### [Balsamiq Mockups](https://balsamiq.com/)
 > 一款优秀的原型图绘制工具。
 
+* ### [Framer](http://framerjs.com/)
+> 产品原型设计
+
 * ### [墨刀](https://modao.cc/)
 > 免费的移动应用原型与线框图工具.
 
