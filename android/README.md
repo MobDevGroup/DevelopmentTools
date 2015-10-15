@@ -95,6 +95,22 @@ AndroidJUnitRunner、Espresso、UI Automator
   8. NDK
 
 ### Android Studio插件
+
+* ### [android-postfix-plugin](https://github.com/takahirom/android-postfix-plugin)
+> 可根据后缀快速完成代码，这个属于拓展吧，系统已经有这些功能，如sout、notnull等，这个插件在原有的基础上增添了一些新的功能
+
+* ### [AndroidAccessors](https://github.com/jonstaff/AndroidAccessors)
+> 快速生成get和set方法的插件，其实系统的也有类似功能，这个更快。
+
+* ### [Lifecycle-Sorter](https://github.com/armandAkop/Lifecycle-Sorter)
+> 可以根据Activity或者fragment的生命周期对其生命周期方法位置进行先后排序， 快捷键Ctrl + alt + K
+
+* ### JsonOnlineViewer
+> 可实现直接在android studio中调试接口数据，可以选择请求类型，自定义请求头及请求体，json数据格式化后展示
+
+* ### [CodeGlance](https://github.com/Vektah/CodeGlance)
+> 可用于快速定位代码，类似于Sublime编辑器右侧定位视图
+
 * ### [idea-android-studio-plugin](https://github.com/Haehnchen/idea-android-studio-plugin)
 > IntelliJ IDEA / Android Studio plugin with some tools and usability improvements
 
