@@ -10,7 +10,7 @@
 #### 工具名称
 > 用概括性的话对工具做简单描述。
 
-#### 其它相关
+### 其它相关：
 
 > * 移动开发在线分享移动设计库：[MobileDesign](https://github.com/MobDevGroup/MobileDesign)
 
