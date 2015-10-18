@@ -158,3 +158,9 @@
 
 * #### [Cakebrew](https://github.com/brunophilipe/Cakebrew)
 > Manage your Homebrew formulas with style using Cakebrew.
+
+* #### [mackup](https://github.com/lra/mackup)
+> 能使你的应用设置在各个机器(OS X/Linux)上保持同步
+
+* #### [Yoink](http://eternalstorms.at/yoink/)
+> 让你在Mac上移动文件变得更容易
