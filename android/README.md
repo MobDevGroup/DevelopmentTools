@@ -100,6 +100,9 @@ AndroidJUnitRunner、Espresso、UI Automator
 #### [jimu Mirror](http://jimulabs.com)
 > 能够实时预览Android布局，它会监听布局文件的改动，如果有代码变化，就会立即刷新UI。
 
+#### [jRebel For Android](http://zeroturnaround.com/software/jrebel-for-android/)
+> 不仅能够做到UI布局的实时预览，它甚至做到了让你更改java代码后就能实时替换apk中的类文件，达到应用实时刷新，官网的介绍是：Skip build, install and run，因此它可以节约我们很多很多的时间，它的效果也十分不错。
+
 #### [ADBWIFI](https://github.com/layerlre/ADBWIFI)
 > 能够通过WiFi连接你的Android设备，无需USB连接线就可以来进行应用的安装与调试。
 
