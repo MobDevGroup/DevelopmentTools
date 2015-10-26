@@ -97,6 +97,9 @@ AndroidJUnitRunner、Espresso、UI Automator
 
 ### Android Studio插件
 
+#### [jimu Mirror](http://jimulabs.com)
+> 能够实时预览Android布局，它会监听布局文件的改动，如果有代码变化，就会立即刷新UI。
+
 #### [ADBWIFI](https://github.com/layerlre/ADBWIFI)
 > 能够通过WiFi连接你的Android设备，无需USB连接线就可以来进行应用的安装与调试。
 
