@@ -51,6 +51,9 @@
 
 ### Xcode插件
 
+#### [xcode-wakatime](https://github.com/wakatime/xcode-wakatime)
+> Xcode plugin to quantify your coding with automatic time tracking and metrics about your programming.
+
 #### [Multiplex](https://github.com/kolinkrewinkel/Multiplex)
 > Simultaneous editing for Xcode, inspired by Sublime Text.
 
