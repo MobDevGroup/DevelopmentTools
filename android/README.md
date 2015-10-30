@@ -57,43 +57,82 @@
 
 #### [SDK Tools](http://developer.android.com/intl/zh-cn/tools/help/index.html)
 > 容易被初学者忽略的开发工具，也是官方提供的：
-  1. Virtual Device Tools
+
+  Virtual Device Tools
+
     * Android Virtual Device Manager
+
     * Android Emulator (emulator)
+
     * mksdcard
-  2. Development Tools
+
+   Development Tools
+
     * android
+
     * Hierarchy Viewer (hierarchyviewer)
+
     * lint
+
     * SDK Manager
+
     * sqlite3
-  3. Debugging Tools
+
+  Debugging Tools
+
     * adb
+
     * ADB Shell Commands
+
     * Dalvik Debug Monitor Server (ddms)
+
     * Device Monitor
+
     * dmtracedump
+
     * hprof-conv
+
     * Systrace
+
     * traceview
+
     * Systrace
-  4. Build Tools
+
+  Build Tools
+
     * JOBB
+
     * ProGuard
+
     * zipalign
-  5. Image Tools
+
+  Image Tools
+
     * Draw 9-patch
+
     * etc1tool
+
     * Tracer for OpenGL ES
-  6. Platform Tools
+
+  Platform Tools
+
     * bmgr
+
     * logcat
-  7. Android Testing Tools
-    * Android Testing Support Library：
-AndroidJUnitRunner、Espresso、UI Automator
+
+  Android Testing Tools
+
+    * AndroidJUnitRunner
+
+    * Espresso
+
+    * UI Automator
+
     * Monkey
+
     * monkeyrunner
-  8. NDK
+
+   NDK
 
 ### Android Studio插件
 
