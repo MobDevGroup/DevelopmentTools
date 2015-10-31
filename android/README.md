@@ -136,6 +136,9 @@
 
 ### Android Studio插件
 
+#### [android-styler](https://github.com/alexzaitsev/android-styler)
+> 帮助生成style的as插件
+
 #### [jimu Mirror](http://jimulabs.com)
 > 能够实时预览Android布局，它会监听布局文件的改动，如果有代码变化，就会立即刷新UI。
 
