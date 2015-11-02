@@ -315,6 +315,9 @@
 ####  [adbWireless](https://github.com/Skywriter-se/adbWireless)
 > adbWireless能够让手机用无线来取代USB连接而使用ADB工具,但是需要你的手机root。
 
+#### [ViewInspector](https://github.com/xfumihiro/ViewInspector)
+> View Inspection Toolbar for Android Development
+
 ### 尺寸计算/转换工具
 
 ####  [androidpixels](http://androidpixels.net/)
