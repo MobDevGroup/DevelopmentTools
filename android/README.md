@@ -34,6 +34,9 @@
 #### [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/)
 > 在线的图标生成工具，包括Launcher icons、Action bar icons、Notification icons、Device-framed screenshots、Simple nine-patches、Generic icons、Android Action Bar Style Generator、Android Holo Colors Generator。
 
+#### [shape studio](http://shapes.softartstudio.com/)
+> shape代码生成工具
+
 #### [AndroidDrawableFactory](https://github.com/tizionario/AndroidDrawableFactory)
 > 一个生成Android应用所需尺寸图片的工具。
 
