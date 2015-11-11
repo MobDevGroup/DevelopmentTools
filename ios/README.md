@@ -51,6 +51,9 @@
 
 ### Xcode插件
 
+#### [XBookmark](https://github.com/everettjf/XBookmark)
+> Bookmark Plugin for Xcode
+
 #### [xcode-wakatime](https://github.com/wakatime/xcode-wakatime)
 > Xcode plugin to quantify your coding with automatic time tracking and metrics about your programming.
 
