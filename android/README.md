@@ -137,6 +137,9 @@
 
    NDK
 
+#### [apk下载器](http://apps.evozi.com/apk-downloader/)
+> 粘贴包名或者google play 的URL来下载APK
+
 ### Android Studio插件
 
 #### [android-styler](https://github.com/alexzaitsev/android-styler)
