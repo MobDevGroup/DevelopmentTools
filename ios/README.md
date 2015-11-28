@@ -51,6 +51,9 @@
 
 ### Xcode插件
 
+#### [Swimat](https://github.com/Jintin/Swimat)
+> 一个格式化swift代码的插件
+
 #### [XBookmark](https://github.com/everettjf/XBookmark)
 > Bookmark Plugin for Xcode
 
