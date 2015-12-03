@@ -51,6 +51,9 @@
 
 ### Xcode插件
 
+#### [XActivatePowerMode](https://github.com/qfish/XActivatePowerMode)
+> An Xcode plug-in makes POWER MODE happen in your Xcode.
+
 #### [Swimat](https://github.com/Jintin/Swimat)
 > 一个格式化swift代码的插件
 
