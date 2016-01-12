@@ -51,6 +51,9 @@
 
 ### Xcode插件
 
+#### [Refactorator](https://github.com/johnno1962/Refactorator)
+> SourceKit based Plugin for Xcode that Refactors Swift
+
 #### [XActivatePowerMode](https://github.com/qfish/XActivatePowerMode)
 > An Xcode plug-in makes POWER MODE happen in your Xcode.
 
