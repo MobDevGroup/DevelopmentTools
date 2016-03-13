@@ -51,6 +51,9 @@
 
 ### Xcode插件
 
+#### [GoOutside](https://github.com/dbgrandi/GoOutside)
+> An Xcode plugin to track how much time you have spent waiting for Xcode to build.
+
 #### [BBUncrustifyPlugin-Xcode](https://github.com/benoitsan/BBUncrustifyPlugin-Xcode)
 > Xcode plugin to format source code using ClangFormat or Uncrustify
 

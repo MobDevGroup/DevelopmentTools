@@ -143,6 +143,9 @@
 #### [Android Button Maker](http://angrytools.com/android/button/)
 > Android Button Maker
 
+#### [AndroidResizer](https://github.com/BlitzKraig/AndroidResizer)
+> Java Desktop app to resize XXXHDPI (or lower) images and sort them into folders automatically.
+
 ### Android Studio插件
 
 #### [android-styler](https://github.com/alexzaitsev/android-styler)
