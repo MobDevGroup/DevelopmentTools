@@ -280,6 +280,9 @@
 
 ### Apk反编译工具
 
+#### [classyshark](http://www.classyshark.com/)
+> 查看Apk信息的软件, 功能非常强大, 省去反编译的步骤. 主要功能: 查看MultiDex的dex信息, 使用的NativeLibrary, 类和方法的数量统计.
+
 ####  [android-apktool](http://ibotpeaches.github.io/Apktool/)
 
 ####  [Smali](https://github.com/JesusFreke/smali)
