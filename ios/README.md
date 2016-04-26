@@ -51,6 +51,9 @@
 
 ### Xcode插件
 
+#### [JSPatchX](https://github.com/bang590/JSPatchX)
+> A XCode plugin that provides autocompletion for JSPatch
+
 #### [GoOutside](https://github.com/dbgrandi/GoOutside)
 > An Xcode plugin to track how much time you have spent waiting for Xcode to build.
 
