@@ -148,6 +148,11 @@
 
 ### Android Studio插件
 
+#### [FindViewByMe](https://github.com/laobie/FindViewByMe)
+> 一个自动生成FindViewById代码的IDEA/Android Studio插件，支持Activity、Fragment和ViewHolder中的findViewById的代码生成。
+
+
+
 #### [android-styler](https://github.com/alexzaitsev/android-styler)
 > 帮助生成style的as插件
 
