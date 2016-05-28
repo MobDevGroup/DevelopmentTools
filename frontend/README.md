@@ -4,11 +4,17 @@
 #### [WebStorm](http://www.jetbrains.com/webstorm/)
 > 和idea同属于jetbrains公司开发的，它是旗下一款JavaScript开发工具，被广大中国JS开发者誉为“Web前端开发神器”、“最强大的HTML5编辑器”、“最智能的JavaScript IDE”等。
 
+#### [Deco IDE](https://www.decosoftware.com/)
+> 一款开源的构建React Native App的集成开发环境
+
 #### [Aptana Studio](http://www.aptana.com/)
 > 早起作为一个插件可以集成与Eclipse中来开发前端，现在已经独立出来，也是我最早接触js所使用的一款开发工具，如果熟悉了Eclipse快捷键的童鞋可以快速上手。
 
 #### [Dreamweaver](https://helpx.adobe.com/cn/x-productkb/policy-pricing/cs6-CN-product-downloads.html)
 > Html开发工具，编写静态页面和css样式，提示很给力，设计人员用的多一点。
+
+#### [Visual Studio Code](https://code.visualstudio.com/)
+> 微软开发并开源的一款轻量级的跨平台代码编辑器，支持几乎所有主流的开发语言。
 
 #### [SublimeText](http://www.sublimetext.com/)  
 > 一款代码编辑器，借助丰富的插件资源，可以扩展成强大的前端开发工具，和IDE相比，属于一款轻量级的，启动特别快。
