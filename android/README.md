@@ -148,6 +148,9 @@
 
 ### Android Studio插件
 
+#### [ECTranslation](https://github.com/Skykai521/ECTranslation)
+> Android Studio 翻译插件,可以将英文翻译为中文.
+
 #### [FindViewByMe](https://github.com/laobie/FindViewByMe)
 > 一个自动生成FindViewById代码的IDEA/Android Studio插件，支持Activity、Fragment和ViewHolder中的findViewById的代码生成。
 

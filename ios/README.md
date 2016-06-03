@@ -51,6 +51,21 @@
 
 ### Xcode插件
 
+#### [CopyIssue-Xcode-Plugin](https://github.com/hanton/CopyIssue-Xcode-Plugin)
+> 方便你搜索的任何错误或警告的问题，可以复制完整的问题描述，或者可以自动打开你的默认浏览器并通过Google（默认快捷⇧⌥G）或Stackoverflow（默认快捷⇧⌥S）搜索你选择的问题。
+
+#### [AMLocalizedStringBuilder-Xcode-Plugin](https://github.com/MellongLau/AMLocalizedStringBuilder-Xcode-Plugin)
+> 可以帮助你将语言本地化文件Localizable.strings生成object-c的类AMLocalizedString的Xcode插件.
+
+#### [AMMethod2Implement](https://github.com/MellongLau/AMMethod2Implement)
+> 可以自动的将.h或者.m .mm里边需要写入的方法自动填充进来。可以选择要导入的方法，然后按 Ctrl+A 或者 Edit > AMMethod2Implement > Implement Method.就会自动填充方法.
+
+#### [MCLog](https://github.com/yuhua-chen/MCLog)
+> 一款可以让你轻松过滤Xcode控制台日志输出的Xcode插件。
+
+#### [AMAppExportToIPA-Xcode-Plugin](https://github.com/MellongLau/AMAppExportToIPA-Xcode-Plugin)
+> 一款可以让你在Xcode的project navigator界面中直接右键点击xxx.app -> Export IPA就可以生成对应的IPA文件的Xcode插件。
+
 #### [JSPatchX](https://github.com/bang590/JSPatchX)
 > A XCode plugin that provides autocompletion for JSPatch
 
