@@ -148,6 +148,9 @@
 
 ### Android Studio插件
 
+#### [RemoveButterKnife](https://github.com/u3shadow/RemoveButterKnife/tree/master)
+> 移除掉ButterKnife所生成的代码，并替换成findViewById
+
 #### [ECTranslation](https://github.com/Skykai521/ECTranslation)
 > Android Studio 翻译插件,可以将英文翻译为中文.
 

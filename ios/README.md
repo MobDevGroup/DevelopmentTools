@@ -51,6 +51,9 @@
 
 ### Xcode插件
 
+#### [CleanClosureXcode](https://github.com/BalestraPatrick/CleanClosureXcode)
+> 代码格式化插件
+
 #### [CopyIssue-Xcode-Plugin](https://github.com/hanton/CopyIssue-Xcode-Plugin)
 > 方便你搜索的任何错误或警告的问题，可以复制完整的问题描述，或者可以自动打开你的默认浏览器并通过Google（默认快捷⇧⌥G）或Stackoverflow（默认快捷⇧⌥S）搜索你选择的问题。
 
