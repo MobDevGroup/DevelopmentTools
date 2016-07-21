@@ -146,6 +146,95 @@
 #### [AndroidResizer](https://github.com/BlitzKraig/AndroidResizer)
 > Java Desktop app to resize XXXHDPI (or lower) images and sort them into folders automatically.
 
+### Gradle插件
+
+#### [gradle-retrolambda](https://github.com/evant/gradle-retrolambda)
+> 支持Java 6 或者 Java 7使用lambda表达式的gradle插件
+
+#### [dexcount-gradle-plugin](https://github.com/KeepSafe/dexcount-gradle-plugin)
+> 统计每次Build时APK包方法数的gradle插件
+
+#### [build-time-tracker-plugin](https://github.com/passy/build-time-tracker-plugin)
+> 统计你build时间的gradle插件
+
+#### [lint-cleaner-plugin](https://github.com/marcoRS/lint-cleaner-plugin)
+> 移除Android工程中没有使用的资源的gradle插件
+
+#### [gradle-packer-plugin](https://github.com/mcxiaoke/gradle-packer-plugin)
+> Android渠道打包工具的gradle插件
+
+#### [android-gradle-mulchannel-plugin](https://github.com/ihrthk/android-gradle-mulchannel-plugin)
+> 一个能生成多渠道打包APK的gradle插件
+
+#### [sdk-manager-plugin](https://github.com/JakeWharton/sdk-manager-plugin)
+> 下载和管理你的Android SDK 的gradle插件
+
+#### [gradle-play-publisher](https://github.com/Triple-T/gradle-play-publisher)
+> 一个上传APK和app信息数据到Google Play应用商店的gradle插件
+
+#### [gradle-versions-plugin](https://github.com/ben-manes/gradle-versions-plugin)
+> 一个检查依赖的版本更新的gradle插件
+
+#### [groovy-android-gradle-plugin](https://github.com/groovy/groovy-android-gradle-plugin)
+> 一个支持Groovy语音来构建Android App的gradle插件
+
+#### [gradle-advanced-build-version](https://github.com/moallemi/gradle-advanced-build-version)
+> 一个能自动生成Android版本名和版本号的gradle插件
+
+#### [gradle-bintray-plugin](https://github.com/bintray/gradle-bintray-plugin)
+> 一个支持将artifacts分发到Bintray的gradle插件
+
+#### [img-optimizer-gradle-plugin](https://github.com/chenenyu/img-optimizer-gradle-plugin)
+> 一款用于优化png图片的gradle插件，有效减少APK体积，支持极限压缩和无损压缩。
+
+#### [androidsvgdrawable-plugin](https://github.com/avianey/androidsvgdrawable-plugin)
+> 能够在构建时将SVG文件生成指定规格PNG图片的gradle插件
+
+#### [OkBuck](https://github.com/OkBuilds/OkBuck)
+> 基于facebook开源的Android编译工具Buck的gradle插件
+
+#### [paraphrase](https://github.com/JakeWharton/paraphrase)
+> 按照指定格式生成字符串的gradle插件
+
+#### [gradle_plugin_android_aspectjx](https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx)
+> 一个在Android中应用Aspectj的Gradle插件。支持切AAR, JAR， 支持现在Android上最火的Kotlin。
+
+#### [drawable-optimizer](https://github.com/fabiomsr/drawable-optimizer)
+> 一个优化PNG图片减小APK体积的gradle插件
+
+#### [license-gradle-plugin](https://github.com/hierynomus/license-gradle-plugin)
+> 一个管理开源协议的gradle插件
+
+#### [gradle-node-plugin](https://github.com/srs/gradle-node-plugin)
+> 一个支持运行nodejs脚本的gradle插件
+
+#### [gradle-nexus-plugin](https://github.com/bmuschko/gradle-nexus-plugin)
+> 一个能配置和上传artifacts到Nexus私服的gradle插件
+
+#### [android-native-dependencies](https://github.com/nhachicha/android-native-dependencies)
+> 一个能自动添加native依赖到jniLibs目录的gradle插件
+
+#### [RoboAspectJ](https://github.com/meituan/RoboAspectJ)
+> 一个将面向切面编程引入Android工程额gradle插件
+
+#### [gradle-android-command-plugin](https://github.com/novoda/gradle-android-command-plugin)
+> 通过gradle任务来运行adb命令
+
+#### [protobuf-gradle-plugin](https://github.com/google/protobuf-gradle-plugin)
+> 一个能编译Protocol Buffer并将.proto文件生成Java源文件的gradle插件
+
+#### [license-tools-plugin](https://github.com/cookpad/license-tools-plugin)
+> 一个检查库开源协议并生成协议页面的gradle插件
+
+#### [gradle-fir-plugin](https://github.com/sangmingming/gradle-fir-plugin)
+> 上传apk到fir的gradle插件
+
+#### [android-gradle-localization-plugin](https://github.com/koral--/android-gradle-localization-plugin)
+> 一个生成国际化字符串资源文件的gradle插件
+
+#### [markdown-gradle-plugin](https://github.com/aalmiray/markdown-gradle-plugin)
+> 一个支持MarkDown与HTML互转的gradle插件
+
 ### Android Studio插件
 
 #### [RemoveButterKnife](https://github.com/u3shadow/RemoveButterKnife/tree/master)
