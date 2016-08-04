@@ -148,6 +148,9 @@
 
 ### Gradle插件
 
+#### [AutoVersion](https://github.com/nillith/AutoVersion)
+> Android studio 管理 app versionCode和versionName的gradle插件。可以根据git仓库提交数自动更新versionCode。
+
 #### [gradle-retrolambda](https://github.com/evant/gradle-retrolambda)
 > 支持Java 6 或者 Java 7使用lambda表达式的gradle插件
 
