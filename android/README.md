@@ -240,6 +240,9 @@
 
 ### Android Studio插件
 
+#### [android-codegenerator-plugin-intellij](https://github.com/tmorcinek/android-codegenerator-plugin-intellij)
+> 根据布局文件快速生成对应的Activity，Fragment，Adapter，Menu
+
 #### [MVPHelper](https://github.com/githubwing/MVPHelper)
 > 一款Intellj IDEA 和Android Studio 自动生成MVP模式所需接口以及实现类的插件
 
