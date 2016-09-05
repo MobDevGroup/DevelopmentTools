@@ -240,6 +240,30 @@
 
 ### Android Studio插件
 
+#### [MVPHelper](https://github.com/githubwing/MVPHelper)
+> 一款Intellj IDEA 和Android Studio 自动生成MVP模式所需接口以及实现类的插件
+
+#### [android-strings-search-plugin](https://github.com/konifar/android-strings-search-plugin)
+> 这个插件可以很容易地在字符串资源搜索文本。
+
+#### [gitflow4idea](https://github.com/OpherV/gitflow4idea)
+> Git Flow Integration plugin for IntelliJ
+
+#### [AndroidProguardPlugin](https://github.com/zhonghanwen/AndroidProguardPlugin)
+> 一键生成项目混淆代码插件
+
+#### [GradleDependenciesHelperPlugin](https://github.com/ligi/GradleDependenciesHelperPlugin)
+> maven gradle 依赖支持自动补全
+
+#### [GenerateSerialVersionUID](https://github.com/jbellassai/idea-GenerateSerialVersionUID)
+> 实现Serializable序列化bean
+
+#### [jetbrains-wakatime](https://github.com/wakatime/jetbrains-wakatime)
+> 记录你在IDE上的工作时间
+
+#### [permissions-dispatcher-plugin](https://github.com/shiraji/permissions-dispatcher-plugin)
+> IntelliJ plugin for supporting PermissionsDispatcher
+
 #### [RemoveButterKnife](https://github.com/u3shadow/RemoveButterKnife/tree/master)
 > 移除掉ButterKnife所生成的代码，并替换成findViewById
 
@@ -248,8 +272,6 @@
 
 #### [FindViewByMe](https://github.com/laobie/FindViewByMe)
 > 一个自动生成FindViewById代码的IDEA/Android Studio插件，支持Activity、Fragment和ViewHolder中的findViewById的代码生成。
-
-
 
 #### [android-styler](https://github.com/alexzaitsev/android-styler)
 > 帮助生成style的as插件
