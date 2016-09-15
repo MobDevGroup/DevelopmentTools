@@ -240,6 +240,9 @@
 
 ### Android Studio插件
 
+#### [DataBindingModelFormatter](https://github.com/Qixingchen/DataBindingModelFormatter)
+>  快速为Data Binding实体生成getter、setter函数 
+
 #### [android-codegenerator-plugin-intellij](https://github.com/tmorcinek/android-codegenerator-plugin-intellij)
 > 根据布局文件快速生成对应的Activity，Fragment，Adapter，Menu
 
