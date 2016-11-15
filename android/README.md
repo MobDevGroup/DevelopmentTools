@@ -417,6 +417,9 @@
 
 ### Apk反编译工具
 
+#### [DEGUARD](http://www.apk-deguard.com/)
+> 一个在线的APK反混淆工具
+
 #### [Android-Crack-Tool](https://github.com/Jermic/Android-Crack-Tool)
 > 一个Mac平台的编译/反编译工具,方便用户对Apk进行逆向分析,提供Apk信息查看功能.
 
