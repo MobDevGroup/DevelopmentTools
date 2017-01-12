@@ -148,6 +148,9 @@
 
 ### Gradle插件
 
+#### [TinyPngPlugin](https://github.com/waynell/TinyPngPlugin)
+> TinyPngPlugin是一个TinyPng的Gradle插件，它能够批量地压缩你项目中的图片
+
 #### [AutoVersion](https://github.com/nillith/AutoVersion)
 > Android studio 管理 app versionCode和versionName的gradle插件。可以根据git仓库提交数自动更新versionCode。
 
