@@ -246,6 +246,9 @@
 
 ### Android Studio插件
 
+#### [ApkMultiChannel Plugin](https://github.com/nukc/ApkMultiChannelPlugin)
+> 这是一个为了方便 Android 多渠道打包的 Android Studio / IDEA 插件,支持v2签名：jarsigner 和 apksigner,支持2种渠道打包方式:美团的方式和packer-ng-plugin的方式
+
 #### [TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin)
 > IntelliJ IDEA/Android Studio 翻译插件，支持中英互译、单词朗读
 
