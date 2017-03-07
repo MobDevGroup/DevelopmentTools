@@ -1,8 +1,8 @@
 
 ### 代码管理
 
-####  [Git](http://git-scm.com/)
-> Git是一个开源的分布式版本控制系统，用以有效、高速的处理从很小到非常大的项目版本管理。[2]  Git 是 Linus Torvalds 为了帮助管理 Linux 内核开发而开发的一个开放源码的版本控制软件。
+#### [GitKraken](https://www.gitkraken.com/)
+> 一款免费、直观、漂亮的跨平台 Git 客户端。
 
 #### [TortoiseSVN ](http://tortoisesvn.net/)
 > SVN是Subversion的简称，是一个开放源代码的版本控制系统，相较于RCS、CVS，它采用了分支管理系统，它的设计目标就是取代CVS。 TortoiseSVN是Subversion 版本控制系统的一个Windows平台免费开源客户端，可以超越时间的管理文件和目录。
@@ -19,7 +19,118 @@
 ####  [Tower](http://www.git-tower.com/)
 > Mac上的Git客户端。
 
+### 代码托管
+
+#### [GitHub](http://www.github.com/)
+> 越来越多喜欢开源的开发者聚集到这里。
+
+#### [CodePlex](http://www.codeplex.com/)
+> 微软主办的开源网站。
+
+#### [Google Code](https://code.google.com/)
+> 谷歌旗下的开源网站，前不久谷歌宣布要将其关闭。
+
+#### [SourceForge](http://sourceforge.net/)
+> SourceForge.net，又称SF.net，是开源软件开发者进行开发管理的集中式场所。
+
+#### [bitbucket](https://bitbucket.org/)
+> 国外另一个git托管平台,不过这里可以免费创建私有代码仓库。
+
+#### [GitLab](https://www.gitlab.com/)
+> 作为开源项目，国外又一个git托管平台。
+
+#### [GitCafe](https://gitcafe.com/)
+> 国内一家git开源社区托管平台。
+
+#### [Git@OSC](http://git.oschina.net/)
+> 开源中国旗下代码托管平台。
+
+#### [Coding](https://coding.net/user)
+> 国内一家代码托管平台，为软件开发者提供基于云计算技术的软件开发平台，包括项目管理，代码托管，运行空间和质量控制等等。
+
+#### [豆瓣CODE](http://douban-code.github.io/)
+> 豆瓣旗下的开源协作平台
+
+### Git文档
+
+####  [Git](http://git-scm.com/)
+> Git是一个开源的分布式版本控制系统，用以有效、高速的处理从很小到非常大的项目版本管理。[2]  Git 是 Linus Torvalds 为了帮助管理 Linux 内核开发而开发的一个开放源码的版本控制软件。
+
+#### [gitignore](https://www.gitignore.io/)
+> .gitignore配置
+
+#### [shortcutfoo](https://www.shortcutfoo.com/)
+> 一个在线练习快捷键操作的网站，他提供了一种有趣的在线游戏方式供开发者学习
+
+#### [Git在线模拟学习](https://try.github.io/)
+
+#### [Learn Git Branching](http://learngitbranching.js.org/)
+
+#### [图解Git](http://marklodato.github.io/visual-git-guide/index-zh-cn.html)
+
+#### [Pro Git 2](http://git-scm.com/book/zh/v2)
+
+#### [Git与GitHub入门基础视频](http://www.nowcoder.com/courses/2)
+
+#### [GitHub Training](https://training.github.com)
+
+#### [Git-it](http://jlord.us/git-it/)
+
+#### [Git系列教程](http://acoder.cc/git.html)
+
+#### [Pro Git（中文版）](http://git.oschina.net/progit/)
+
+#### [GitHub中文指南](http://www.worldhello.net/gotgithub/)
+
+#### [Git官方指南中文版](http://git-scm.com/2010/06/09/pro-git-zh.html)
+
+#### [git - 简易指南](http://www.bootcss.com/p/git-guide/)
+
+#### [廖雪峰Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+
+#### [猴子都能懂的Git入门](http://backlogtool.com/git-guide/cn/)
+
+#### [The Git Community Book](http://alx.github.io/gitbook/)
+
+#### [Git Community Book 中文版](http://gitbook.liuhui998.com/)
+
+#### [Git指南](https://github.com/geeeeeeeeek/git-recipes/wiki)
+
+### 自助Git服务
+
+#### [GitLab](https://www.gitlab.com/)
+>  GitLab是利用 Ruby on Rails 一个开源的版本管理系统，实现一个自托管的Git项目仓库
+
+#### [Gogs](https://gogs.io/)
+> 一款极易搭建的自助 Git 服务。
+
+#### [Gitea](https://gitea.io)
+> Gitea 是一个开源社区驱动的 Gogs 克隆, 是一个轻量级的代码托管解决方案.
+
+### 代码共享
+
+#### [codeshare](https://codeshare.io/)
+> 能和其他开发者实时共享代码。
+
+#### [JS Bin](http://jsbin.com/)
+> 可以将编辑后的代码保存到本地，或将 URL 地址发给其他人，让其协助调试代码。支持 HTML，CSS，JavaScript，Markdown，Jade 和 Sass。
+
+#### [JSfiddle](https://jsfiddle.net/)
+> 能自定义环境来测试你的 HTML，CSS，JavaScript 代码。
+
+#### [dabblet](http://dabblet.com/)
+> Web playground，交互效果不错。
+
+#### [RunJS](http://runjs.cn/)
+> 在线编辑、展示、分享、交流你的 JavaScript 代码
+
 ### Markdown
+
+#### [StackEdit](https://stackedit.io/)
+> 一个开放源码免费使用的 MarkDown 编辑器, 基于 PageDown。
+
+#### [Dillinger](http://dillinger.io/)
+> 也是在线编辑器，提供云存储，并支持 HTML5，PDF 等多种导出格式。
 
 #### [MacDown](http://macdown.uranusjr.com/)
 > Markdown 写作工具，支持语法高亮
