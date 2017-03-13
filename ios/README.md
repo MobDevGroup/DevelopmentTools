@@ -51,6 +51,9 @@
 
 ### Xcode插件
 
+#### [AutomaticCompletionPlugin](https://github.com/CYBoys/AutomaticCompletionPlugin)
+> Objc，Getter 函数自动补全插件，基于 Xcode 8 的 Source Editor Extension 开发
+
 #### [CleanClosureXcode](https://github.com/BalestraPatrick/CleanClosureXcode)
 > 代码格式化插件
 

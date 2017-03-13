@@ -246,6 +246,9 @@
 
 ### Android Studio插件
 
+#### [here-be-dragons](https://github.com/anupcowkur/here-be-dragons)
+> An Intellij/Android Studio plugin to help visualise side effects in your code.
+
 #### [ApkMultiChannel Plugin](https://github.com/nukc/ApkMultiChannelPlugin)
 > 这是一个为了方便 Android 多渠道打包的 Android Studio / IDEA 插件,支持v2签名：jarsigner 和 apksigner,支持2种渠道打包方式:美团的方式和packer-ng-plugin的方式
 
