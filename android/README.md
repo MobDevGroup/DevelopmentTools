@@ -246,6 +246,9 @@
 
 ### Android Studio插件
 
+#### [json2java4idea](https://github.com/t28hub/json2java4idea)
+> 一个帮助你将json生成java类的Android Studio / IDEA 插件。
+
 #### [here-be-dragons](https://github.com/anupcowkur/here-be-dragons)
 > An Intellij/Android Studio plugin to help visualise side effects in your code.
 
