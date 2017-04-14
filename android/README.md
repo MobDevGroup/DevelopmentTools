@@ -151,6 +151,9 @@
 
 ### Gradle插件
 
+#### [McImage](https://github.com/Aweme/McImage)
+> McImage是一个插件帮助你检查你res中的大图和全量压缩你的res,包括Jar包中的图,AAR中的图,子Module中的图
+
 #### [TinyPngPlugin](https://github.com/waynell/TinyPngPlugin)
 > TinyPngPlugin是一个TinyPng的Gradle插件，它能够批量地压缩你项目中的图片
 
