@@ -151,6 +151,12 @@
 
 ### Gradle插件
 
+#### [gradle-android-publisher](https://github.com/bluesliverx/gradle-android-publisher)
+> 一个能帮助发布APK包到Google play的Gradle插件
+
+#### [DiscardFilePlugin](https://github.com/wangjiegulu/DiscardFilePlugin)
+> 用于在编译构建时期忽略清空类和方法的一个Android Gradle插件
+
 #### [McImage](https://github.com/Aweme/McImage)
 > McImage是一个插件帮助你检查你res中的大图和全量压缩你的res,包括Jar包中的图,AAR中的图,子Module中的图
 

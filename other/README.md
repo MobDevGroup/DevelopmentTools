@@ -257,8 +257,6 @@
 ####  [worktile](https://worktile.com/)
 > 一个团队协同办公工具，通过简单的协作、沟通和分享，实现团队交互与任务管理的轻松协作。工作随身带，多平台、云数据，随时随地与团队一起工作，项目、任务、文件、讨论、文档、事件、活动流、通知和日历，一个都不能少。
 
-
-
 ### 综合
 
 #### [创造狮导航](http://chuangzaoshi.com/)
@@ -274,6 +272,12 @@
 > Cheat Sheets 列出所有的API，并且将API 按某种规则进行分类，然后点击某个API，会显示其具体的描述。
 
 ### 其它
+
+#### [vim-adventures](https://vim-adventures.com/)
+> 一个以游戏的方式来练习vim的网站
+
+#### [AngryTools](http://angrytools.com/)
+> 一系列设计的工具集
 
 #### [Color Themes](http://color-themes.com/)
 > IDE 主题站
