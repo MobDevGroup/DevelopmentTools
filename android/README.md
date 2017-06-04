@@ -151,6 +151,15 @@
 
 ### Gradle插件
 
+#### [gradle-build-properties-plugin](https://github.com/novoda/gradle-build-properties-plugin)
+> 通过利用外部properties文件来支持构建脚本的gradle插件
+
+#### [gradle-static-analysis-plugin](https://github.com/novoda/gradle-static-analysis-plugin)
+> 针对Java和Android工程的来进行静态文件分析的gradle插件
+
+#### [gradle-android-command-plugin](https://github.com/novoda/gradle-android-command-plugin)
+> 使用gradle task的方式来跑adb命令的gradle插件
+
 #### [gradle-android-publisher](https://github.com/bluesliverx/gradle-android-publisher)
 > 一个能帮助发布APK包到Google play的Gradle插件
 
