@@ -13,7 +13,7 @@
 #### [genymotion](https://www.genymotion.com)
 > genymotion是一套完整的工具，它提供了Android虚拟环境。由于比自带模拟器的速度快而备受开发者喜欢。  
 
-#### [IDE主题])(http://color-themes.com/)
+#### [IDE主题](http://color-themes.com/)
 > IDE 各类主题站
 
 #### [Gradle](http://gradle.org/)
@@ -60,6 +60,12 @@
 
 #### [DroidDraw](http://code.google.com/p/droiddraw/)
 > 一个基于Java Swing的Android可视化界面设计器，可以通过它来生成复杂的Android Layout XML文件。
+
+#### [APK method count](http://inloop.github.io/apk-method-count/)
+> APK方法数统计
+
+#### [Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database)
+> 一种借助浏览器方便调试数据库和首选项配置文件的工具
 
 #### [SDK Tools](http://developer.android.com/intl/zh-cn/tools/help/index.html)
 > 容易被初学者忽略的开发工具，也是官方提供的：
