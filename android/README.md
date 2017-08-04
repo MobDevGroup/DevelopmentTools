@@ -270,6 +270,9 @@
 
 ### Android Studio插件
 
+#### [Android-Resource-Usage-Count](https://github.com/niorgai/Android-Resource-Usage-Count)
+> 一款Android资源引用数目统计插件
+
 #### [json2java4idea](https://github.com/t28hub/json2java4idea)
 > 一个帮助你将json生成java类的Android Studio / IDEA 插件。
 
