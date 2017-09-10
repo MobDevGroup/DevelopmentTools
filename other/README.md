@@ -273,6 +273,9 @@
 
 ### 其它
 
+#### [PxCook](http://www.fancynode.com.cn/pxcook)
+> 最高效易用的自动标注工具，设计研发利器
+
 #### [Photopea](https://blog.photopea.com/png-minifier-inside-photopea.html)
 > PNG图片压缩神器
 
