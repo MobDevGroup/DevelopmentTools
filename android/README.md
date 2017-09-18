@@ -270,6 +270,9 @@
 
 ### Android Studio插件
 
+#### [BreakWords](https://github.com/jungletian/BreakWords)
+> 用kotlin实现的idea/Android Studio/WebStorm查词插件
+
 #### [Android-Resource-Usage-Count](https://github.com/niorgai/Android-Resource-Usage-Count)
 > 一款Android资源引用数目统计插件
 
