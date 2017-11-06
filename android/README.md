@@ -270,6 +270,9 @@
 
 ### Android Studio插件
 
+#### [ok-gradle](https://github.com/scana/ok-gradle)
+> 用于快速搜索 maven 库引用
+
 #### [BreakWords](https://github.com/jungletian/BreakWords)
 > 用kotlin实现的idea/Android Studio/WebStorm查词插件
 
