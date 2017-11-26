@@ -200,6 +200,11 @@
 #### [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser)
 > SQLite可视化工具
 
+### 其他
+
+#### [Kap](https://getkap.co/)
+> 开源的屏幕录制工具
+
 ### 综合
 
 #### [ios dev tools](http://www.scoop.it/t/ios-dev)

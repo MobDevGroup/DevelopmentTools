@@ -271,6 +271,9 @@
 #### [cheat-sheets集](http://www.cheat-sheets.org/)
 > Cheat Sheets 列出所有的API，并且将API 按某种规则进行分类，然后点击某个API，会显示其具体的描述。
 
+#### [目录木](http://www.mulumu.com/)
+> 一个产品与目录的集合网站
+
 ### 其它
 
 #### [PxCook](http://www.fancynode.com.cn/pxcook)
@@ -314,3 +317,6 @@
 
 #### [xScope](http://xscopeapp.com/)
 > xScope是一款专门为设计师和开发人员创建、集八种功能于一体的多功能软件，是一套集测量、检查和测试屏幕上图形和布局的理想工具。
+
+#### [asciinema](https://asciinema.org/)
+> 一款终端录屏工具
